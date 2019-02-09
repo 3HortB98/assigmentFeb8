@@ -4,4 +4,8 @@
     <string name="hintEmail">Enter your Email</string>
     <string name="hintAge">Enter your Age</string>
     <string name="btnSave">Save</string>
+    <string name="tvName">Name:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvAge">Age:</string>
+    <string name="tvSummary">Summary</string>
 </resources>
