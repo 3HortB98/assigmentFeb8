@@ -1,4 +1,4 @@
-package com.example.fromapp;
+package com.example.formapp;
 
 import org.junit.Test;
 

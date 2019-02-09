@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">fromApp</string>
+    <string name="app_name">formApp</string>
     <string name="nameHint">Enter your Name</string>
     <string name="hintEmail">Enter your Email</string>
     <string name="hintAge">Enter your Age</string>

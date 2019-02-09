@@ -1,4 +1,4 @@
-package com.example.fromapp;
+package com.example.formapp;
 
 import android.content.Context;
 import android.content.Intent;
